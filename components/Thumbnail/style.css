@@ -1,0 +1,7 @@
+img{
+    margin:8px;
+    filter: blur(2px);
+}
+.active-img{
+    filter: none;
+}
